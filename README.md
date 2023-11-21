@@ -1,4 +1,4 @@
-👋 ####Hi, there
+####Hi, there 👋 
 
 
 <!---
@@ -26,6 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 </details>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
