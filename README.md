@@ -28,5 +28,3 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 </details>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=anes009)](https://solved.ac/백준아이디)<br/>
