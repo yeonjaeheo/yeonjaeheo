@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <details>
-<summary>지금 내가 배우는 것들</summary>
+<summary>☕️지금 내가 배우는 것들</summary>
 <div markdown="1">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-<summary>배우고 싶은 것들</summary>
+<summary>🔥배우고 싶은 것들</summary>
 <div markdown="2">
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
