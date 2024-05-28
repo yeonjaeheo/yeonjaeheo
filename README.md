@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <div markdown="1">
 
 
-
+https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%logoColor=white
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
 
 </div>
@@ -29,9 +29,8 @@ You can click the Preview link to take a look at your changes.
 <details>
   
 
-<summary>💍알고리즘</summary>
-<div markdown="1">
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=anes009)](https://solved.ac/anes009)
-</div>
-</details>
+
