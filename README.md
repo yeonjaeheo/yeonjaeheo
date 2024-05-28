@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 <summary>☕️지금 내가 배우는 것들</summary>
 <div markdown="1">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
 
 </div>
 </details>
@@ -20,8 +20,16 @@ You can click the Preview link to take a look at your changes.
 <summary>🔥배우고 싶은 것들</summary>
 <div markdown="2">
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
+
 
 
 </div>
 </details>
+
+<summary>Silver 💍</summary>
+<div markdown="3">
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=anes009)](https://solved.ac/anes009)
+</div>
+
+
