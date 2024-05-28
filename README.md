@@ -27,9 +27,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 
-<summary>Silver 💍</summary>
-<div markdown="3">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anes009)](https://solved.ac/anes009/)
-</div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=anes009)](https://solved.ac/anes009)
 
 
